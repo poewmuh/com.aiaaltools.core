@@ -1,7 +1,7 @@
 {
   "name": "com.aiaaltools.core",
   "displayName": "Aiaal Tools Core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "6000.0",
   "description": "Aiaal Tools",
   "dependencies": {
@@ -11,7 +11,7 @@
   "samples": [
     {
       "displayName": "Content",
-      "description": "Content",
+      "description": "Content for game",
       "path": "Samples~/Content"
     }
   ]
