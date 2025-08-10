@@ -1,0 +1,12 @@
+{
+  "name": "com.aiaaltools.core",
+  "displayName": "Aiaal Tools Core",
+  "version": "0.0.1",
+  "unity": "6000.0",
+  "description": "Aiaal Tools",
+  "dependencies": {
+    "com.unity.addressables": "2.4.6",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+  }
+}
